@@ -28,17 +28,23 @@ Features POS system Tjok
 Website
 
 - Front
--- normal tjok site overnemen
--- site + APP = aanvraag nummers van café gangers, openingsuren, update pagine, 
-info pagina, publieke agenda, reservering systeem, store page voor tickets van evenementen, 
+- normal tjok site overnemen
+- site + APP => 
+aanvraag nummers van café gangers, 
+openingsuren, 
+update pagine, 
+info pagina, 
+publieke agenda, 
+reservering systeem, 
+store page voor tickets van evenementen, 
 facebook feed
 
 - backend
--- mogelijkheden om de front te bewerken
--- ticket verkoop
--- agenda
--- forums
--- api youtube & spotify voor verzoek nummers
--- API maken voor APP
--- Tjok app ontwikkelen en registreren op apple store & google play store
--- payconiq, bancontact, paypal, ect. (betaalgateways)
+mogelijkheden om de front te bewerken
+ticket verkoop
+agenda
+forums
+api youtube & spotify voor verzoek nummers
+API maken voor APP
+Tjok app ontwikkelen en registreren op apple store & google play store
+API payconiq, bancontact, paypal, ect. (betaalgateways)
