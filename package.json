@@ -1,0 +1,23 @@
+{
+  "name": "jh-tjok-pos",
+  "version": "1.0.0",
+  "description": "POS systeem voor JH Tjok",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLTechologies/JH-Tjok-POS.git"
+  },
+  "keywords": [
+    "POS",
+    "Tjok"
+  ],
+  "author": "JH Tjok Hove",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JLTechologies/JH-Tjok-POS/issues"
+  },
+  "homepage": "https://github.com/JLTechologies/JH-Tjok-POS#readme"
+}
