@@ -1,50 +1,51 @@
 # JH-Tjok-POS
-POS systeem voor JH Tjok
+POS system For JH Tjok
 
 # ABOUT
-Het POS systeem zijn 2 zaken die los van elkaar kunnen draaien, de ene kant is de website van JH Tjok Hove.
-De andere kant is de website van JH Tjok. Deze worden wel geslitst in 2 verschillende repositories die beiden naar elkaar zullen linken vanaf dat de personen die eraan gaan werken, er effectief aan gaan beginnen
+The POS system are 2 different things that stand apart from each other. One side is the actual website from JH Tjok.
+The other side is the POS system that is used at JH Tjok for their café. 
+Both will be seperated repositories and are going to be initiated once the developers that are going to work on them, are actually working on it.
 
 
-# Te komen features en extra's:
+# Upcoming/Planned features and extra's:
 
 Features POS system Tjok
 
-- NFC tags als ontgrendeling (tapperskaart erop, kassa ontgrendeld voor bepaalde tijd en na 30 seconden inactiviteit terug vergrendelen)
-- Ledenbestand productenlijst & categorieën, tickets in Database
-- dagelijks, wekelijks en maandelijks kassaoverzicht
-- ID uitlezen voor data van ID af te halen voor lidkaarten en NFC kaarten
-- kassalade sturing
-- Payconiq & bancontact integratie
-- Stocktelling + app voor toogverantwoordelijke
-- shiftenlijst mee in app voor toogverantwoordelijke
-- Permissies (voorzitter, verantwoordeijke toog, tappers)
+- NFC tags for unlocking the system (Carts from bartenders, after a period of 30 seconds of inactivity, the system will lock itself)
+- Database for members, products, categories and receipts.
+- Daily, weekly and monthly respresentation from what has been sold and the income from that period.
+- Read ID-cart to get details for the new membera to make member carts and NFC cards.
+- Control for the cash desk
+- Payconiq & bancontact integration
+- Stockcount + app for the person that maintains the bar
+- shiftlist in the app 
+- permissions: responsible person from the bar, bartenders and chairman
 - Mailing
-- API voor app
-- sessies
-- framework als in standalone applicatie (niet via website = zellfde systeem als discord?) 
+- API for the app
+- sessions
+- framework as in standalone application (kinda like discord?) 
 
 
 Website
 
 - Front
-- normal tjok site overnemen
+- normal tjok site
 - site + APP => 
-aanvraag nummers van café gangers, 
-openingsuren, 
-update pagine, 
-info pagina, 
-publieke agenda, 
-reservering systeem, 
-store page voor tickets van evenementen, 
+request songs for peolple that comes to drink, 
+opening hours, 
+update page, 
+info page, 
+public agenda, 
+Reserve system for renting the big hall, 
+store page for tickets for events, 
 facebook feed
 
 - backend
-mogelijkheden om de front te bewerken
-ticket verkoop
+possibility to edit the front
+ticket sale
 agenda
 forums
-api youtube & spotify voor verzoek nummers
-API maken voor APP
-Tjok app ontwikkelen en registreren op apple store & google play store
-API payconiq, bancontact, paypal, ect. (betaalgateways)
+api youtube & spotify for request numbers
+API for the app
+Create the app and register on the apple store and google play store
+API payconiq, bancontact, paypal, ect. (Paymentgateways in general)
